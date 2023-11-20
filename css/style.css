@@ -387,6 +387,7 @@ a:hover{
     border-radius: .9375rem;
     object-fit: cover;
     object-position:center;
+    height: 24.0625rem;
 }
 .portfolio_wrapper .portfolio-img .hidden-text{
     position:absolute;

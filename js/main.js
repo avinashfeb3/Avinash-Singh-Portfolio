@@ -8,8 +8,8 @@ window.onscroll = function () {
     }
 } 
 
-// Mouse Hover Design
-var cursor = document.querySelector(".cursor");
+// mouse hover design 
+var cursor = document.querySelector(".cursor1");
 var cursorinner = document.querySelector(".cursor2");
 var a = document.querySelectorAll("a"); 
 
